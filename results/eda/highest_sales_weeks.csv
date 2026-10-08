@@ -1,0 +1,11 @@
+Date,Total_Sales,IsHoliday,Holiday_Name
+2010-12-24,80931415.6,False,Non-holiday
+2011-12-23,76998241.31,False,Non-holiday
+2011-11-25,66593605.26,True,Thanksgiving
+2010-11-26,65821003.24,True,Thanksgiving
+2010-12-17,61820799.85,False,Non-holiday
+2011-12-16,60085695.94,False,Non-holiday
+2010-12-10,55666770.39,False,Non-holiday
+2011-12-09,55561147.7,False,Non-holiday
+2012-04-06,53502315.87,False,Non-holiday
+2012-07-06,51253021.88,False,Non-holiday

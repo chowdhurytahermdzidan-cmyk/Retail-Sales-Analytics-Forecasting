@@ -1,0 +1,3 @@
+IsHoliday,Average_Weekly_Sales,Minimum_Weekly_Sales,Maximum_Weekly_Sales,Weeks_Observed,Week_Type
+False,46856537.1093985,39599852.99,80931415.6,133,Non-holiday
+True,50529955.156,40432519.0,66593605.26,10,Holiday

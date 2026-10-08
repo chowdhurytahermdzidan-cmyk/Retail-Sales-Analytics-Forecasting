@@ -1,0 +1,3 @@
+Model,MAE_USD,RMSE_USD,Number_of_Events
+90% seasonal + 10% recent mean,2752925.69,2955671.936,4
+52-week seasonal naive,2655647.742,3227592.157,4
